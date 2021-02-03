@@ -1,7 +1,7 @@
 # INP
 
 Overeni cinnosti kodu CPU: <br/>
-   #   testovany program (kod)       vysledek <br/>
+   testovany program (kod)       vysledek <br/>
    1.  ++++++++++                    ok
    2.  ----------                    ok
    3.  +>++>+++                      ok
