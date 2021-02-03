@@ -1,5 +1,6 @@
 # INP
-
+Projekt 1 15/15 <br/>
+Projekt 2 17/23 (max z toho co jsem udělal) <br/>
 Overeni cinnosti kodu CPU: <br/>
    testovany program (kod)       vysledek <br/>
    1.  ++++++++++                    ok
@@ -12,6 +13,6 @@ Overeni cinnosti kodu CPU: <br/>
    8.  +++[.-]                       ok
    9.  +++++[>++[>+.<-]<-]           chyba
 
-  Podpora jednoduchych cyklu: ano
-  Podpora vnorenych cyklu: ne
-  Implementovan korektne zasobnik: castecne
+  Podpora jednoduchych cyklu: ano <br/>
+  Podpora vnorenych cyklu: ne <br/>
+  Implementovan korektne zasobnik: castecne<br/>
